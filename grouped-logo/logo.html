@@ -1,0 +1,83 @@
+<div class="container">
+    <div class="composition">
+        <img src="a.jpg" class="composition__photo composition__photo--p1">
+        <img src="b.jpg" class="composition__photo composition__photo--p2">
+        <img src="c.jpg" class="composition__photo composition__photo--p3">
+        <img src="d.jpg" class="composition__photo composition__photo--p4">
+        <img src="e.jpg" class="composition__photo composition__photo--p5">
+        <img src="kochifoss.png" class="logo" />
+    </div>
+</div>
+
+<style type="text/css">
+body {
+	 font-size: 62.5%;
+	 margin: 5vw 5vh;
+	 background: #333333ff;
+}
+img {
+    max-width: 400px;
+}
+.container {
+    position: absolute;
+    top: 15vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+}
+.composition {
+    width: 700px;
+    position: relative;
+    top: 0;
+    bottom:0;
+}
+.logo {
+    position: fixed;
+    z-index: 9999;
+    top: 35.5rem;
+    bottom: 0px;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 500px !important;
+    height: auto;
+}
+.composition__photo {
+    width: 55%;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, .4);
+    border: 5px solid #fff;
+    border-radius: 2px;
+    position: absolute;
+    z-index: 10;
+    transition: all 0.2s;
+    outline-offset: 2rem;
+}
+.composition__photo--p1 {
+    top: -3rem;
+    left: 0;
+    transform: rotate(-10deg);
+}
+.composition__photo--p2 {
+    top: -3rem;
+    right: -1rem;
+    transform: rotate(5deg);
+}
+.composition__photo--p3 {
+    top: 16rem;
+    right: 0;
+    width: 500px;
+    transform: rotate(7deg);
+}
+.composition__photo--p4 {
+    top: 10rem;
+    left: 25%;
+    transform: rotate(0deg);
+    z-index: 99999 !important;
+    width: 350px;
+}
+.composition__photo--p5 {
+    top: 15rem;
+    left: 0;
+    transform: rotate(-5deg);
+}
+</style>
