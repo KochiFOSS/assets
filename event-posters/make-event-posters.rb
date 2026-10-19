@@ -25,7 +25,7 @@ def generate_talk_poster(talk)
   svg_content = svg_content.gsub('{{title3}}', escape(talk['title3'].to_s))
   svg_content = svg_content.gsub('{{title4}}', escape(talk['title4'].to_s))
 
-  speaker_image_path = File.expand_path(talk['speaker_image'], '#{__dir__}/input')
+  speaker_image_path = File.expand_path(talk['speaker_image'], "#{__dir__}/input")
   svg_content = svg_content.gsub('%7B%7Bspeaker_image%7D%7D', speaker_image_path)
   svg_content = svg_content.gsub('{{speaker_image}}', speaker_image_path)
   File.write(tmp_svg_path, svg_content)
