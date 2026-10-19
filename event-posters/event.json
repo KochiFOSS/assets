@@ -1,44 +1,34 @@
 {
   "talks": [
     {
-      "title": "Being an Off-road Kernel Contributor",
-      "title1": "Being an Off-road",
-      "title2": "Kernel Contributor",
+      "title": "Opacus - Open source Tool for Differential Privacy in PyTorch",
+      "title1": "Opacus - Open source Tool for",
+      "title2": "Differential Privacy in PyTorch",
       "title3": "",
       "title4": "",
-      "speaker_name": "Nandakumar Edamana",
-      "speaker_bio": "Software Architect, PhD Scholar, FOSS Contributor",
-      "speaker_image": "nandakumar.jpg"
+      "speaker_name": "Maria Paul T",
+      "speaker_bio": "Postgraduate in Data Science from Chennai Mathematical Institute",
+      "speaker_image": "maria.jpg"
     },
     {
-      "title": "Code & Craft: Notes from a Side Project that went Viral",
-      "title1": "Code & Craft: Notes",
-      "title2": "from a Side Project",
-      "title3": "that went Viral",
+      "title": "Git-jutsu with Jujutsu",
+      "title1": "Git-jutsu with Jujutsu",
+      "title2": "A walkthrough on Jujutsu,",
+      "title3": "a modern VCS system that tries to",
+      "title4": "make version control more simple",
+      "speaker_name": "Andrew Bastian",
+      "speaker_bio": "Unpaid Nix evangelist | Head of Engineering @ Vibrant Labs",
+      "speaker_image": "andrew.jpg"
+    },
+    {
+      "title": "Dashboards All the Way Down",
+      "title1": "Dashboards All the Way",
+      "title2": "Down",
+      "title3": "",
       "title4": "",
-      "speaker_name": "Malavika",
-      "speaker_bio": "Senior Software Engineer, Data Platforms at McKesson Compile",
-      "speaker_image": "malavika.jpg"
-    },
-    {
-      "title": "Visual AI: Building Agents the Open-Source Way with Langflow",
-      "title1": "Visual AI: Building Agents",
-      "title2": "the Open-Source Way",
-      "title3": "with Langflow",
-      "title4": "",
-      "speaker_name": "Stephen Mathew, Sangeetha S, Akash Mariam Mathew",
-      "speaker_bio": "",
-      "speaker_image": ""
-    },
-    {
-      "title": "Beyond the Unpredictable Loop: Building Production-Grade Agentic Workflows with LangGraph and smolagents",
-      "title1": "Beyond the Unpredictable",
-      "title2": "Loop: Building Production",
-      "title3": "Grade Agentic Workflows with",
-      "title4": "LangGraph and smolagents",
-      "speaker_name": "Sreejith Surendran",
-      "speaker_bio": "Senior Manager of Data Engineering, IBS Software",
-      "speaker_image": "sreejith.jpg"
+      "speaker_name": "Athul Cyriac Ajay",
+      "speaker_bio": "DevOps at a Healthtech. I'm a hacker, a coder, an AI abuser (take a look around, Limp Bizkit)",
+      "speaker_image": "athul.jpg"
     }
   ]
 }
