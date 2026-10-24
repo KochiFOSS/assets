@@ -1,4 +1,8 @@
 {
+  "event": {
+    "start": "2026-10-24T10:00",
+    "venue": "Hatio, Kalamassery"
+  },
   "talks": [
     {
       "title": "Opacus - Open source Tool for Differential Privacy in PyTorch",
@@ -16,7 +20,7 @@
       "title2": "A walkthrough on Jujutsu,",
       "title3": "a modern VCS system that tries to",
       "title4": "make version control more simple",
-      "speaker_name": "Andrew Bastian",
+      "speaker_name": "Andrew Bastin",
       "speaker_bio": "Unpaid Nix evangelist | Head of Engineering @ Vibrant Labs",
       "speaker_image": "andrew.jpg"
     },
