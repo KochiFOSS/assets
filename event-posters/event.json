@@ -1,38 +1,38 @@
 {
   "event": {
-    "start": "2026-10-24T10:00",
-    "venue": "Hatio, Kalamassery"
+    "start": "2026-11-28T09:30",
+    "venue": "KTIZ, Kerala Startup Mission, Kalamassery"
   },
   "talks": [
     {
-      "title": "Opacus - Open source Tool for Differential Privacy in PyTorch",
-      "title1": "Opacus - Open source Tool for",
-      "title2": "Differential Privacy in PyTorch",
-      "title3": "",
-      "title4": "",
-      "speaker_name": "Maria Paul T",
-      "speaker_bio": "Postgraduate in Data Science from Chennai Mathematical Institute",
-      "speaker_image": "maria.jpg"
+      "title": "Mobile Apps in Javascript: A Slightly Less Masochistic Approach with Framework7 and Capacitor.js",
+      "title1": "Mobile Apps in Javascript:",
+      "title2": "A Slightly Less Masochistic ",
+      "title3": "Approach with Framework7",
+      "title4": "and Capacitor.js",
+      "speaker_name": "Nikhil M Warrier",
+      "speaker_bio": "Relapsing JavaScript dev & swatantra software evangelist",
+      "speaker_image": "nik.jpg"
     },
     {
-      "title": "Git-jutsu with Jujutsu",
-      "title1": "Git-jutsu with Jujutsu",
-      "title2": "A walkthrough on Jujutsu,",
-      "title3": "a modern VCS system that tries to",
-      "title4": "make version control more simple",
-      "speaker_name": "Andrew Bastin",
-      "speaker_bio": "Unpaid Nix evangelist | Head of Engineering @ Vibrant Labs",
-      "speaker_image": "andrew.jpg"
-    },
-    {
-      "title": "Dashboards All the Way Down",
-      "title1": "Dashboards All the Way",
-      "title2": "Down",
+      "title": "Physical AI: When Models Leave the Chat Window",
+      "title1": "Physical AI: When Models",
+      "title2": "Leave the Chat Window",
       "title3": "",
       "title4": "",
-      "speaker_name": "Athul Cyriac Ajay",
-      "speaker_bio": "DevOps at a Healthtech. I'm a hacker, a coder, an AI abuser (take a look around, Limp Bizkit)",
-      "speaker_image": "athul.jpg"
+      "speaker_name": "Muhammed Ashiq",
+      "speaker_bio": "AI Security Engineer at Cargill",
+      "speaker_image": "ashiq.jpg"
+    },
+    {
+      "title": "Back to the Past: git Internals",
+      "title1": "Back to the Past:",
+      "title2": "git Internals",
+      "title3": "",
+      "title4": "",
+      "speaker_name": "Nivedh E R",
+      "speaker_bio": "17, In High School. Systems and Full Stack developer",
+      "speaker_image": "nivedh.jpg"
     }
   ]
 }
